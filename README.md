@@ -1,3 +1,9 @@
+1. Introduction
+1.1 Purpose
+The purpose of this document is to specify the requirements for the development of a chat application with message storage. This application aims to provide users with a secure, real-time communication platform with the ability to store and retrieve chat messages.
+
+1.2 Scope
+The chat application will support one-on-one and group conversations, offering features for personal use, business communication, education, healthcare, and more. It will include message storage for historical record-keeping and retrieval.
 2. Functional Requirements
 2.1 User Management
 2.1.1 User Registration
