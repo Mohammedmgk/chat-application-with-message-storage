@@ -98,4 +98,5 @@ Users are responsible for the confidentiality of their login credentials.
 
 10. Glossary
 End-to-End Encryption: A security measure where only the communicating users can read the messages.
+
 Push Notifications: Messages sent from a software application to a computing device, without a specific request from the client.
